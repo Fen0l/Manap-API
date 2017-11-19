@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# app
+env.sh
+flask_api/
+venv.sh
+
+
 # C extensions
 *.so
 
